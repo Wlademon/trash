@@ -1,0 +1,1 @@
+C:/wamp64/logs/access.log
